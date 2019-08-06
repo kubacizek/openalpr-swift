@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'OpenALPRSwift'
-  spec.version = '1.0.3'
+  spec.version = '1.0.4'
   spec.summary = 'iOS Framework for the openalpr library ready to use in Swift and Objective-C.'
   spec.homepage = 'https://github.com/yasirmturk/openalpr-swift'
   spec.license = { type: 'GPL 3.0', file: 'LICENSE' }
